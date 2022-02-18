@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, I'am Konstantin 👋
+___
 
-<!--
-**Dmitrievskij90/Dmitrievskij90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp; &nbsp;🇷🇺 from Omsk, Russia
+<br /> &nbsp; &nbsp;💻 I'm learning IOS development
+<br /> &nbsp; &nbsp;⚽️ A former professional football player
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+
+[<img src="https://user-images.githubusercontent.com/77940475/133942036-326f4cdc-e83c-4901-a04e-216247b6b9c3.png" height='40'>][telegram]
+[<img src="https://user-images.githubusercontent.com/77940475/133942086-c0dd878a-517d-46b3-99ec-a486ea069616.png" height='40'>][instagram]
+
+[instagram]: https://instagram.com/dmitrievskiy_k
+[telegram]: https://t.me/Dmitrievskij90
