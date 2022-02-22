@@ -7,12 +7,12 @@ ___
 
 ___
 
-### My training projects
+### My training projects:
 
-[<img src="https://github.com/Dmitrievskij90/NewsApp/blob/develop/NewsApp/Assets.xcassets/AppIcon.appiconset/87.png" height='40'>][news app]
-[<img src="https://github.com/Dmitrievskij90/Main-Road./blob/master/Main%20Road/Assets.xcassets/AppIcon.appiconset/87.png" height='40'>][main road]
-[<img src="https://github.com/Dmitrievskij90/Realm-Shop/blob/master/Realm%20Shop/Assets.xcassets/ic_pencil.imageset/ic_pencil.png" height='40'>][realm shop]
-[<img src="https://github.com/Dmitrievskij90/WeatherApp-IOS/blob/master/WeatherApp/Assets.xcassets/AppIcon.appiconset/87.png" height='40'>][weather app]
+[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/NewsApp/App%20icon.png" height='60'>][news app]
+[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/MainRoad/app_icon.png" height='60'>][main road]
+[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/RealmShop/ic_pencil.png" height='60'>][realm shop]
+[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/WeatherApp/1024.png" height='60'>][weather app]
 
 [weather app]: https://github.com/Dmitrievskij90/WeatherApp-IOS
 [realm shop]: https://github.com/Dmitrievskij90/Realm-Shop
