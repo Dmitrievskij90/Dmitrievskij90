@@ -7,6 +7,13 @@ ___
 
 ___
 
+### Stack:
+Swift, Xcode, UIKit, Foundation, UIKit animation, UserDefaults, Keychain, FileManager, Realm, Firebase, MVC, MVVM, Cocoapods, ARC, GCD, URLSession, JSON, UI programmatically, Storyboard, Xib, Core Location, WebKit, SDWebImage.
+
+Сode style - SwiftLint.
+
+___
+
 ### My training projects:
 
 [<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/NewsApp/App%20icon.png" height='60'>][news app]
