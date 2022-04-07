@@ -8,7 +8,7 @@ ___
 ___
 
 ### Stack:
-Swift, Xcode, UIKit, Foundation, UIKit animation, UserDefaults, Keychain, FileManager, Realm, Firebase, MVC, MVVM, Cocoapods, ARC, GCD, URLSession, JSON, UI programmatically, Storyboard, Xib, Core Location, WebKit, SDWebImage.
+Swift, Xcode, UIKit, Foundation, UIKit animation, UserDefaults, Keychain, FileManager, CoreData, Realm, Firebase, MVC, MVVM, Cocoapods, ARC, GCD, URLSession, JSON, UI programmatically, Storyboard, Xib, Core Location, WebKit, SDWebImage.
 
 Сode style - SwiftLint.
 
