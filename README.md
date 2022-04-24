@@ -27,7 +27,7 @@ ___
 [weather app]: https://github.com/Dmitrievskij90/WeatherApp-IOS
 [realm shop]: https://github.com/Dmitrievskij90/Realm-Shop
 [main road]: https://github.com/Dmitrievskij90/Main-Road.
-[news app]: https://github.com/Dmitrievskij90/NewsApp/tree/main
+[news app]: https://github.com/Dmitrievskij90/NewsApp
 [unsplash library]: https://github.com/Dmitrievskij90/UnsplashLibrary
 ___
 
