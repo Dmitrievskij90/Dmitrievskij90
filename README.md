@@ -16,11 +16,12 @@ ___
 
 ### My training projects:
 
-[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/NewsApp/App%20icon.png" height='60'>][news app]
-[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/UnsplashLibrary/App%20icon.png" height='60'>][unsplash library]
-[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/MainRoad/app_icon.png" height='60'>][main road]
-[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/RealmShop/ic_pencil.png" height='60'>][realm shop]
-[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/WeatherApp/1024.png" height='60'>][weather app]
+
+[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/NewsApp/App%20icon.png" height='100'>][news app]
+[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/UnsplashLibrary/App%20icon.png" height='100'>][unsplash library]
+[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/MainRoad/app_icon.png" height='100'>][main road]
+[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/RealmShop/ic_pencil.png" height='100'>][realm shop]
+[<img src="https://github.com/Dmitrievskij90/Readme/blob/main/AppScreenshots/WeatherApp/1024.png" height='100'>][weather app]
 
 
 [weather app]: https://github.com/Dmitrievskij90/WeatherApp-IOS
