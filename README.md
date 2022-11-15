@@ -2,13 +2,13 @@
 ___
 
 &nbsp; &nbsp;🇷🇺 from Omsk, Russia
-<br /> &nbsp; &nbsp;💻 I'm learning IOS development
+<br /> &nbsp; &nbsp;💻 IOS developer at Black Bricks
 <br /> &nbsp; &nbsp;⚽️ A former professional football player
 
 ___
 
 ### Stack:
-Swift, Xcode, UIKit, Foundation, UIKit animation, UserDefaults, Keychain, FileManager, CoreData, Realm, Firebase, MVC, MVP, MVVM, Cocoapods, ARC, GCD, URLSession, JSON, UI programmatically, SnapKit, Storyboard, Xib, Core Location, WebKit, SDWebImage.
+Swift, Xcode, UIKit, SwiftUI, Foundation, UIKit animation, UserDefaults, Keychain, FileManager, CoreData, Realm, Firebase, MVC, MVP, MVVM, Clean architecture, Cocoapods, ARC, GCD, URLSession, JSON, UI programmatically, SnapKit, Storyboard, Xib, Core Location, WebKit, SDWebImage.
 
 Сode style - SwiftLint.
 
