@@ -1,7 +1,7 @@
 ### Hello, I'am Konstantin 👋
 ___
 
-&nbsp; &nbsp;🇷🇺 from Omsk, Russia
+&nbsp; &nbsp;🇷🇺 From Omsk, Russia
 <br /> &nbsp; &nbsp;💻 IOS Developer at Black Bricks
 <br /> &nbsp; &nbsp;⚽️ A former professional football player
 
