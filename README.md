@@ -2,7 +2,7 @@
 ___
 
 &nbsp; &nbsp;🇷🇺 from Omsk, Russia
-<br /> &nbsp; &nbsp;💻 IOS developer at Black Bricks
+<br /> &nbsp; &nbsp;💻 IOS Developer at Black Bricks
 <br /> &nbsp; &nbsp;⚽️ A former professional football player
 
 ___
