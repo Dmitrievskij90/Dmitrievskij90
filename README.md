@@ -8,21 +8,21 @@ ___
 ___
 
 ### Stack:
-Languages - Swift, Kotlin.
-IDE - Xcode, Android Studio.
-UIKit, SwiftUI, Compose.
-CoreData, Realm, SQLDelight.
-Firebase Realtime Database, Firebase storage, Firebase analytics.
-MVVM, MVC, MVP, Clean architecture.
-Cocoapods, SPM.
-GCD, Async/Await, Kotlin coroutines, KMPNativeCoroutines.
-URLSession, Alamofire, Ktorfit.
-Combine, Kotlin flows.
-Sign in with Apple, Google sign in.
-PhotoKit, AVKit/AVAssetImageGenerator.
-IoT technologies, Core Bluetooth, Socket communication.
-SiriKit.
-Voice over accessibility.
+Languages - Swift, Kotlin.  
+IDE - Xcode, Android Studio.  
+UIKit, SwiftUI, Compose.  
+CoreData, Realm, SQLDelight.  
+Firebase Realtime Database, Firebase storage, Firebase analytics.  
+MVVM, MVC, MVP, Clean architecture.  
+Cocoapods, SPM.  
+GCD, Async/Await, Kotlin coroutines, KMPNativeCoroutines.  
+URLSession, Alamofire, Ktorfit.  
+Combine, Kotlin flows.  
+Sign in with Apple, Google sign in.  
+PhotoKit, AVKit/AVAssetImageGenerator.  
+IoT technologies, Core Bluetooth, Socket communication.  
+SiriKit.  
+Voice over accessibility.  
 
 Сode style - SwiftLint, Detekt.
 ___
