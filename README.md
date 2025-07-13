@@ -2,15 +2,29 @@
 ___
 
 &nbsp; &nbsp;🇷🇺 From Omsk, Russia
-<br /> &nbsp; &nbsp;💻 IOS Developer at Black Bricks
+<br /> &nbsp; &nbsp;💻 IOS/Kotlin multiplatform Developer at Black Bricks
 <br /> &nbsp; &nbsp;⚽️ A former professional football player
 
 ___
 
 ### Stack:
-Swift, Xcode, UIKit, SwiftUI, Foundation, UIKit animation, UserDefaults, Keychain, FileManager, CoreData, Realm, Firebase, MVC, MVP, MVVM, Clean architecture, Cocoapods, ARC, GCD, URLSession, JSON, UI programmatically, SnapKit, Storyboard, Xib, Core Location, WebKit, SDWebImage.
+Languages - Swift, Kotlin.
+IDE - Xcode, Android Studio.
+UIKit, SwiftUI, Compose.
+CoreData, Realm, SQLDelight.
+Firebase Realtime Database, Firebase storage, Firebase analytics.
+MVVM, MVC, MVP, Clean architecture.
+Cocoapods, SPM.
+GCD, Async/Await, Kotlin coroutines, KMPNativeCoroutines.
+URLSession, Alamofire, Ktorfit.
+Combine, Kotlin flows.
+Sign in with Apple, Google sign in.
+PhotoKit, AVKit/AVAssetImageGenerator.
+IoT technologies, Core Bluetooth, Socket communication.
+SiriKit.
+Voice over accessibility.
 
-Сode style - SwiftLint.
+Сode style - SwiftLint, Detekt.
 ___
 
 ### Connect with me:
